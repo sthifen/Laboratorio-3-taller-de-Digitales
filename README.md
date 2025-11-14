@@ -96,3 +96,7 @@ El módulo de pruebas permite:
 5. Probar la comunicación con una PC.
 
 Para la parte 1, los archivos s e encuentran aquí: https://drive.google.com/file/d/1-K_8Y63qyfZpdx5fTPKUdEYbu80AXurs/view?usp=sharing
+
+---
+
+Para la parte 2, los archivos completos del proyecto a nivel de simulación y tb se escuentra aquí: https://drive.google.com/drive/folders/16SQsyNqpsQdf2XPXsIFrXcL5y6LB8Yrn?usp=sharing 
