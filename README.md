@@ -94,3 +94,5 @@ El módulo de pruebas permite:
 3. Ejecutar simulación.
 4. Sintetizar, implementar y generar el bitstream.
 5. Probar la comunicación con una PC.
+
+Para la parte 1, los archivos s e encuentran aquí: https://drive.google.com/file/d/1-K_8Y63qyfZpdx5fTPKUdEYbu80AXurs/view?usp=sharing
